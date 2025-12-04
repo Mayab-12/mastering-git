@@ -1,3 +1,3 @@
    ##Welcome Git!
-   ##Welcome back
-   welcom from dev-maya branch
+   This is coming from 'dev-maya'
+   Hello Maya!
